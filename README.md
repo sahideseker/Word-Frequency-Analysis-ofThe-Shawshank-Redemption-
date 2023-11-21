@@ -1,7 +1,7 @@
 ## esaretin-bedeli-veri-analizi
 
 # Açıklama
-* Bu projede Esaretin Bedeli filminde geçen kelimelerin veri analizini yaparak en fazla hangi kelimenin kullanıldığını ve en çok kullanılan cümleler python kullanılarak incelendi. Kelimeler wordcloud ile görselleştirildi.
+*Bu projede Esaretin Bedeli filminde geçen kelimelerin veri analizini yaparak en fazla hangi kelimenin kullanıldığını ve en çok kullanılan cümleler python kullanılarak incelendi. Kelimeler wordcloud ile görselleştirildi.*
 
 # Çalışma Mantığı
 *Filimin altyazılarını kullanarak her kelimeyi tek tek ayırıp düzenliyor, her tanımladığı kelime ve cümleleri kelime bulutuna dönüştürerek bize en fazla kullanılan kelimeleri ve cümleleri gösteriyor.*

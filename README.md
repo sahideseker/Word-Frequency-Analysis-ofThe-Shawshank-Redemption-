@@ -3,9 +3,8 @@
 
 
 # Açıklama
-*Bu projede Esaretin Bedeli filminde geçen kelimelerin veri analizini yaparak en fazla hangi kelimenin kullanıldığını ve en çok kullanılan cümleler python kullanılarak incelendi. Kelimeler wordcloud ile görselleştirildi.*
+*This project analyzes the words used in the film The Shawshank Redemption, identifying the most frequently used words and sentences through Python. Utilizing the film's subtitles, each word is extracted and organized, then visualized in a word cloud to showcase the most commonly used words and phrases.*
 
-# Çalışma Mantığı
-*Filimin altyazılarını kullanarak her kelimeyi tek tek ayırıp düzenliyor, her tanımladığı kelime ve cümleleri kelime bulutuna dönüştürerek bize en fazla kullanılan kelimeleri ve cümleleri gösteriyor.*
+
 
 ![fafa-transformed](https://github.com/sahideseker/esaretin-bedeli-veri-analizi/assets/65617524/51e24fcb-cb9a-4f3e-af9b-0b1b0f57dc55)

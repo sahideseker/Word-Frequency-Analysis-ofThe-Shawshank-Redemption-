@@ -1,4 +1,6 @@
-## esaretin-bedeli-veri-analizi
+## Word Frequency Analysis of The Shawshank Redemption
+
+
 
 # Açıklama
 *Bu projede Esaretin Bedeli filminde geçen kelimelerin veri analizini yaparak en fazla hangi kelimenin kullanıldığını ve en çok kullanılan cümleler python kullanılarak incelendi. Kelimeler wordcloud ile görselleştirildi.*

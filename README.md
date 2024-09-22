@@ -7,4 +7,3 @@
 
 
 
-![fafa-transformed](https://github.com/sahideseker/esaretin-bedeli-veri-analizi/assets/65617524/51e24fcb-cb9a-4f3e-af9b-0b1b0f57dc55)
